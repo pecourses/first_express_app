@@ -1,0 +1,1 @@
+module.exports.checkPermission =(req,res,next)=>{}
